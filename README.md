@@ -13,7 +13,7 @@ IAM y Política de Servicio Pinpoint Emails:
   
 Back-End (BE_Python):
 
-  Activa el entorno virtual utilizando conda: 
+  Activa el entorno virtual utilizando anaconda: 
     
     conda activate ammper_be
     
