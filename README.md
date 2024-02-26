@@ -17,6 +17,7 @@ Back-End (BE_Python):
   Inicia el servidor con uvicorn: uvicorn app:app --reload.
   
   Variables de Entorno:  
+    
     REGION_NAME_AWS
     
     APP_ID_AWS
@@ -26,6 +27,7 @@ Front-End (FE_React):
   Inicia la aplicación con el comando: npm run start.
   
   Variables de Entorno:  
+    
     REACT_APP_URL_BE_EMAIL_SENDER
     
     REACT_APP_URL_BE_EMAIL_STATS
