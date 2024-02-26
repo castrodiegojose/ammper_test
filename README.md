@@ -18,6 +18,7 @@ Back-End (BE_Python):
   
   Variables de Entorno:  
     REGION_NAME_AWS
+    
     APP_ID_AWS
   
 Front-End (FE_React):
@@ -26,4 +27,5 @@ Front-End (FE_React):
   
   Variables de Entorno:  
     REACT_APP_URL_BE_EMAIL_SENDER
+    
     REACT_APP_URL_BE_EMAIL_STATS
