@@ -13,8 +13,13 @@ IAM y Política de Servicio Pinpoint Emails:
   
 Back-End (BE_Python):
 
-  Activa el entorno virtual utilizando conda: conda activate ammper_be.
-  Inicia el servidor con uvicorn: uvicorn app:app --reload.
+  Activa el entorno virtual utilizando conda: 
+    
+    conda activate ammper_be
+    
+  Inicia el servidor con uvicorn: 
+  
+    uvicorn app:app --reload
   
   Variables de Entorno:  
     
@@ -24,7 +29,9 @@ Back-End (BE_Python):
   
 Front-End (FE_React):
 
-  Inicia la aplicación con el comando: npm run start.
+  Inicia la aplicación con el comando: 
+  
+    npm run start
   
   Variables de Entorno:  
     
